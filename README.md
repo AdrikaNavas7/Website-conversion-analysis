@@ -1,4 +1,4 @@
-# website-conversion-analysis
+# Website-Conversion-Analysis
 
 ## Overview
 This repository contains the full analytical workings.

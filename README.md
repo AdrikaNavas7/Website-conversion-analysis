@@ -11,6 +11,7 @@ The analysis covers 20 weeks of website visit and conversion data across 4 brows
 - `Graph_Country_Conversion_Rate.png` — Conversion rate by market
 - `Graph_Comparison_W6_W7_Browser.png` — Week 6 vs Week 7 browser comparison
 - `Graph_Opportunity.png` — Market opportunity analysis
+- `S_A_Written_Project_DataSet_Analysis.xlsx` — Raw dataset with summary and analysis tab
 
  ## Tools Used
 - R (ggplot2, dplyr)
